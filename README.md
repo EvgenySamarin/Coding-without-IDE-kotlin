@@ -1,4 +1,4 @@
-# kotlin-parser-v1.2
+# Coding-without-IDE-kotlin
 Пример работы без IDE на основе VisualStudio Code в связке с WSL, Gradle
 
 ## Установка и настройка VisualStudio code
